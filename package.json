@@ -7,5 +7,10 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Gabriel Duarte",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gduarte93/grsh.git"
+  },
+  "homepage": "https://github.com/gduarte93/grsh"
 }
