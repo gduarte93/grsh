@@ -12,5 +12,11 @@
     "type": "git",
     "url": "https://github.com/gduarte93/grsh.git"
   },
-  "homepage": "https://github.com/gduarte93/grsh"
+  "homepage": "https://github.com/gduarte93/grsh",
+  "keywords": [
+    "capitalize",
+    "lowercase",
+    "grow",
+    "shrink"
+  ]
 }
