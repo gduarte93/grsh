@@ -1,6 +1,6 @@
 {
   "name": "grsh",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "description": "Module to grow (capitalize) or shrink (lowercase) things",
   "main": "index.js",
   "scripts": {
